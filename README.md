@@ -10,7 +10,7 @@ https://bd.kma.go.kr/contest/
 - 산림공간정보 (토양도): [다운로드 링크](https://bd.kma.go.kr/contest/downloadFile2.do?fileCd=FILE016)
 - 행정구역 경계 (읍,면,동)
 
-Keyword
-- Precursor events to landslide
+Key Concept
+- Precursor events to landslide is what to look for
 - United States Geological Survey: What causes a landslide? https://www.usgs.gov/faqs/what-a-landslide-and-what-causes-one?qt-news_science_products=0#qt-news_science_products
-* Slope movement, gravity, , factor that increases the effects of down-slope forces and low or reduce of the strength, changes in water level - rainfall, snowmelt, stream erosion, earthquake, volcanic activity, disturbance of human activities
+    * Slope movement, gravity, , factor that increases the effects of down-slope forces and low or reduce of the strength, changes in water level - rainfall, snowmelt, stream erosion, earthquake, volcanic activity, disturbance of human activities
